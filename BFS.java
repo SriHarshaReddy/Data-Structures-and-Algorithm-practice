@@ -1,3 +1,8 @@
+/*@Author: SriHarshaReddy
+ * Code to perform Breadth first search on a graph when a vertex is provided.
+ * Date : 12.09.2017
+ * */
+
 import java.util.Queue;
 import java.util.LinkedList;
 import java.util.List;
