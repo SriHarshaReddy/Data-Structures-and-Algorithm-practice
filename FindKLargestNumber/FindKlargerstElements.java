@@ -1,3 +1,8 @@
+/*
+ * @Author - SriHarshaReddy Munjuluru
+ * @Date - 12/10/2017
+ * Find K largest elements in an unsorted array.
+ */
 import java.util.Scanner;
 public class FindKlargerstElements {
 public static void main(String[] args)
