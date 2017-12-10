@@ -1,0 +1,6 @@
+1) Strongly connected components
+2) Dual Pivot Quick Sort
+IMP - 3) Finding K largest elements in an array (Also work on the logic to sort on the disk)
+4) Priority Queue (Add and remove operation)
+5) Prims Algorithm
+6) Huffman coding
